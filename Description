@@ -1,0 +1,23 @@
+Features:
+
+Customers Table: Captures demographic details, including age, gender, location, annual income, and spending score.
+
+Segments Table: Defines customer segments with descriptions for targeted analysis.
+
+CustomerSegments Table: Maps customers to specific segments, enabling segmentation insights.
+
+Query Examples: Includes practical SQL queries for retrieving customer details, segment analysis, and customer counts per segment.
+
+Highlights:
+
+Focus on scalability and adaptability for RPA-driven processes.
+
+Clean and intuitive schema design leveraging foreign key relationships.
+
+Sample data and queries to showcase database functionality.
+
+Applications:
+
+Automating customer segmentation tasks using RPA tools.
+
+Enhancing decision-making processes through structured data and analysis.
